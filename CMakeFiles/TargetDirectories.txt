@@ -1,0 +1,3 @@
+/mnt/d/SemII/APT/e2/CMakeFiles/rebuild_cache.dir
+/mnt/d/SemII/APT/e2/CMakeFiles/edit_cache.dir
+/mnt/d/SemII/APT/e2/CMakeFiles/e2.dir
